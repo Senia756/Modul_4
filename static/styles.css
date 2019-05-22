@@ -1,6 +1,7 @@
 
 body {
 	
+	background-color: black;
 	background-size: 100%;
 }
 
@@ -8,7 +9,7 @@ body {
 h1 {
 	
 	font-size: 30pt;
-	color: green;
+	color: red;
 	text-align: center;
 }
 
